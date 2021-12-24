@@ -21,6 +21,9 @@ For the second part of my analysis I looked at the number of outcomes (successfu
 ![Play Campaign Outcomes Based on Financial Goal](/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+For the Analysis of Outcomes Based on Launch Date, I only ran into a minor issue. I forgot to sort the outcome columns in reverse alphabetical order within the pivot table. Upon reviewing my work, I noticed the example grid in the module was reverse alphabetical so I was able to change my pivot to match. 
+
+For the Analysis of Outcomes based on goals, I struggled to get my graph to match the one within the challenge module. I checked my countifs multiple times and even reviewed them randomly throughout two days to see if I could find the issue. Ultimately, I totalled up each column within my table, compared it to the count of items on the main kickstarter tab and I was missing roughly 300 items! I finally realized that I was > and < indicators when I should have been using >= and <=. It was such an easy fix but it took me forever to find!
 
 ## Results
 
