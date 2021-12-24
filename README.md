@@ -28,15 +28,19 @@ For the Analysis of Outcomes based on goals, I struggled to get my graph to matc
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Conclusion 1 - May launches had the highest number of successful campaigns.
 Conclusion 2 - December had the lowest number of successful campaigns.
 
 - What can you conclude about the Outcomes based on Goals?
+
 Conclusion 1 - Campaigns with goals $45,0000 or more have a greater chance of failure. 
 Conclusion 2 - Campaigns with a goal of less than $5,0000 were the most likely to succeeed. 
 
 - What are some limitations of this dataset?
+
 One limitiation of this dataset is that we dont know how various campaigns sought out donations- did these plays advertise their initiative? If so, how? Another limitation is that we don't know how many peole are involved in running the campaign. If 1 person was able to get 50 backers that might be impressive whereas if there were 50 people getting 50 backers would be less so. 
 
 - What are some other possible tables and/or graphs that we could create?
+
 We could create a graph to see the number of backers by parent category to understand what category was most popular among the backers. We could also create a table to review the number of subcategories within the parent category to see if more or less subcategories impacted the success of the campaign. 
