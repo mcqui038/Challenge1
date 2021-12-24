@@ -12,7 +12,7 @@ In this project, I analyzed kickstarter campaign data to study different element
 
 ### Analysis of Outcomes Based on Launch Date
 I started the analysis by reviewing the relationship between theater campaign outcomes and the month in which they launched. I started by adding column to the table and using the YEARS() function to return the year of the campaign based on the mm/dd/yyyy structure. Next, I created a pivot table to organize the campaign outcomes by month and added a filter so my client could look specifically at Theater campaigns. 
-![Theater Outcomes vs Launch Date](/Resources/Theater_Outcomes_vs_Launch_Date.png)
+![Theater Campaign Outcomes Based on Launch Date](/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 For the second part of my analysis I looked at the number of outcomes (successful, failed, canceled) based on the financial goal of the campaign. I created a table with incremented brackets 
