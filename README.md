@@ -1,4 +1,4 @@
-# Challenge1
+# Kickstarter Analysis
 Kickstarter Analysis
 
 # Kickstarting with Excel
